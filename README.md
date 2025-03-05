@@ -17,6 +17,12 @@
 🐧 **Linux & Endpoint Hardening** – Because a locked-down system is a happy system.  
 
 ---
+## 🏆 Certifications
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia)
+![ISC² CC](https://img.shields.io/badge/ISC²-Cybersecurity%20Certified-green?style=for-the-badge&logo=ISC2)
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google)
+
+---
 
 ## 🔍 Featured Cybersecurity Projects  
 📌 **[Nessus Vulnerability Assessment](#)** – Scanned my home network, analyzed threats, and documented fixes.  
